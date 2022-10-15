@@ -309,7 +309,7 @@ $ ifstat
 
 ## Download this cheatsheet PDF
 
-[Gumroad download](https://girish1729.gum.co/l/50-linux-command-lines)
+[Gumroad download](https://girish1729.gumroad.com/l/50-linux-command-lines)
 
 ## Tweet this to your followers
 
