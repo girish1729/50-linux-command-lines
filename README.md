@@ -312,5 +312,7 @@ $ ifstat
 [Gumroad download](https://girish1729.gum.co/l/50-linux-command-lines)
 
 
-<a href="https://twitter.com/girish1729?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @girish1729</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<a href="https://twitter.com/intent/tweet?text=Follow+me&url=https%3A%2F%2Ftwitter.com%2Fgirish1729&hashtags=twitter&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Follow me"></img>
+</a>
