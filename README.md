@@ -306,129 +306,129 @@ sha256sum < file.txt
 ```shell
 $ ifstat
 ```
-1. Find directories and nuke them
+51. Find directories and nuke them
 
 ```shell
 $ find . -name mango -type d | xargs rm -rf
 ```
 
-2. Prints random quote or cookie
+52. Prints random quote or cookie
 
 ```shell
 $ fortune
 ```
 
-3. Compress files using zstd
+53. Compress files using zstd
 ```shell
 $ zstd file.bin
 ```
 
-4. Decompress using zstd
+54. Decompress using zstd
 ```shell
 $ unzstd compressed.zstd
 ```
 
-5. Record screencast video
+55. Record screencast video
 ```shell
 $ peek
 ```
 
-6. Download youtube video in mp4
+56. Download youtube video in mp4
 ```shell
 $ yt-dlp -f mp4 https://youtu.be/XXXXX
 ```
 
-7. FTP client with superpowers
+57. FTP client with superpowers
 ```shell
 $ lftp <URL>
 ```
 
-8. Show statistics and counters
+58. Show statistics and counters
 ```shell
 $ conky
 ```
 
-9. Show bandwidth usage
+59. Show bandwidth usage
 ```shell
 $ ifstat -b
 ```
 
-10. Start a TCP server at port 1234
+60. Start a TCP server at port 1234
 ```shell
 $ nc -l -p 1234
 ```
 
-11. Connect to server using netcat
+61. Connect to server using netcat
 ```shell
 $ nc 127.0.0.1 1234
 ```
 
-12. Generate strong password
+62. Generate strong password
 ```shell
 $ pwgen
 ```
 
-13. Generate lookalike domains
+63. Generate lookalike domains
 ```shell
 $ dnstwist google.com
 ```
 
-14. anagram generator
+64. anagram generator
 ```shell
 $ an mango
 ```
 
-15. Profile execution of a program
+65. Profile execution of a program
 ```shell
 $ time <cmd>
 ```
 
-16. Save changes to disk
+66. Save changes to disk
 ```shell
 $ sync
 ```
 
-17. Figure out USB or SSD or HDD performance
+67. Figure out USB or SSD or HDD performance
 ```shell
 $ iostat
 ```
 
-18. Find out bandwidth between two point
+68. Find out bandwidth between two point
 ```shell
 $ bing host1 host2
 ```
 
-19. Scan for machines in local network
+69. Scan for machines in local network
 ```shell
 $ fping -g 192.168.1.0/24
 ```
 
-20. Colored less
+70. Colored less
 ```shell
 $ most <file>
 ```
 
-21. JSON power tool
+71. JSON power tool
 ```shell
 $ jq
 ```
 
-22. YAML power tool
+72. YAML power tool
 ```shell
 $ yq
 ```
 
-23. Search for man pages
+73. Search for man pages
 ```shell
 $ apropos string
 ```
 
-24. Indent javascript
+74. Indent javascript
 ```shell
 $ js-beautify file.js
 ```
 
-25. Capture screenshot
+75. Capture screenshot
 ```shell
 $ sleep 3; import foo.png
 ```
